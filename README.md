@@ -1,10 +1,8 @@
 ## Hi there 👋 :blush:
 ![](https://github-readme-stats.vercel.app/api?username=zuokangjia&show_icons=true&theme=transparent)
-
-![Visitor Count](https://profile-counter.glitch.me/zuokangjia/count.svg)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuokangjia&layout=compact&theme=tokyonight)
-
+## visitor
+![Visitor Count](https://profile-counter.glitch.me/zuokangjia/count.svg)
 
 <!--
 **zuokangjia/zuokangjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
